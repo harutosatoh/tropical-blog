@@ -1,5 +1,10 @@
 nav.navbar {
     background-color:#000;
+    .navbar-brand {
+        color:#fff;
+        font-size: 23px;
+        padding:3px;
+    }
     .navbar-burger {
         color:#fff;
     }
