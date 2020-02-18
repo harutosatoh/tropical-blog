@@ -5,6 +5,7 @@ import Navbar from '../components/Navbar'
 import './all.sass'
 import './style.scss'
 import './navbar.scss'
+import './single.scss'
 import useSiteMetadata from './SiteMetadata'
 import { withPrefix } from 'gatsby'
 
