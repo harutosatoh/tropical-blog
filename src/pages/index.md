@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Sound Libre
-image: /img/home-jumbotron.jpg
+image: /img/palmtree.jpg
 heading: トロピカルハウスを中心にEDMアーティストの情報をお届けします。
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
