@@ -8,7 +8,12 @@ h1 {
 } 
 
 .title {
-    color: #000!important;
+    color: rgb(49, 49, 49)!important;
+}
+a.title {
+    color: rgb(49, 49, 49)!important;
+    font-size:20px;
+    margin-bottom:5px;
 }
 
 .featured-thumbnail {
