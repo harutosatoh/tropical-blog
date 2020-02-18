@@ -5,7 +5,7 @@ image: /img/palmtree.jpg
 heading: 
 subheading: トロピカルハウスを中心にEDMアーティストの情報をお届けします。
 mainpitch:
-  title: Why Kaldi
+  title: Take a deep breath!
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
