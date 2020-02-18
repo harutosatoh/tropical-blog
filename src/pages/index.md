@@ -2,8 +2,8 @@
 templateKey: index-page
 title: Sound Libre
 image: /img/palmtree.jpg
-heading: トロピカルハウスを中心にEDMアーティストの情報をお届けします。
-subheading: Support sustainable farming while enjoying a cup
+heading: 
+subheading: トロピカルハウスを中心にEDMアーティストの情報をお届けします。
 mainpitch:
   title: Why Kaldi
   description: >
