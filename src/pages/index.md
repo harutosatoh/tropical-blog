@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Sound Libre
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+heading: トロピカルハウスを中心にEDMアーティストの情報をお届けします。
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Kaldi
