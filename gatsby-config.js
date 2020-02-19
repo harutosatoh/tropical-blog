@@ -5,13 +5,13 @@ module.exports = {
       'トロピカル・ハウスを中心に海外EDMアーティストの最新情報をお届けします。リリース情報からアーティスト紹介、チケット情報など。',
   },
   plugins: [
-    // {
-    //   resolve: "gatsby-plugin-google-analytics",
-    //   options: {
-    //     trackingId: process.env.GOOGLE_ANALYTICS_TRACKING_ID,
-    //     head: true,
-    //   }
-    // },
+    {
+      resolve: "gatsby-plugin-google-analytics",
+      options: {
+        trackingId: "UA-150912017-3",
+        head: true,
+      }
+    },
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
     {
