@@ -24,7 +24,7 @@ export default class BlogIndexPage extends React.Component {
 
             }}
           >
-           News<FontAwesomeIcon icon={faCoffee} />
+           News
           </h1>
         </div>
         <section className="section">
