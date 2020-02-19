@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Sound Libre',
+    title: 'Sound Dulce',
     description:
       'トロピカル・ハウスを中心に海外EDMアーティストの最新情報をお届けします。リリース情報からアーティスト紹介、チケット情報など。',
   },
