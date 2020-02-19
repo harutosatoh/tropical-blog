@@ -1,16 +1,16 @@
 section.blog-article {
     background-color: #fff;
-.h1 {
-    color:#000;
-    background-color: #fff;
-    margin-bottom:10px;
-}
-
-p {
-    font-size:16px;
-    line-height: 2rem;
-}
-
-
-
+    .columns {
+        margin: 0 auto;
+        .h1 {
+            color:#000;
+            background-color: #fff;
+            margin-bottom:10px;
+        }
+        
+        p {
+            font-size:16px;
+            line-height: 2rem;
+        }
+    }
 }
