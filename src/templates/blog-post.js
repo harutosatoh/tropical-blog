@@ -5,6 +5,7 @@ import Helmet from 'react-helmet'
 import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
+import '../components/BlogRoll'
 
 export const BlogPostTemplate = ({
   content,
@@ -26,6 +27,9 @@ export const BlogPostTemplate = ({
               {title}
             </h1>
             <p>{description}</p>
+            <span className="subtitle is-size-5 is-block">
+                {post.frontmatter.date}
+            </span>
             <PostContent content={content} />
             {tags && tags.length ? (
               <div style={{ marginTop: `4rem` }}>
