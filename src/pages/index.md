@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Sound Dulce
+title: SOUND DULCE
 image: /img/palmtree.jpg
 heading: 
 subheading: トロピカルハウスを中心にEDMアーティストの情報をお届けします。
