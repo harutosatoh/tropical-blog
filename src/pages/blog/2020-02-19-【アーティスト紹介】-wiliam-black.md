@@ -22,12 +22,12 @@ Compositions by William Black on youtube
 
 here at last
 
-\`youtube:https://www.youtube.com/embed/guWsDQSIuAE\`
+`youtube:https://www.youtube.com/embed/lIsfer_52L4`
 
 letting go
 
-<https://www.youtube.com/watch?v=guWsDQSIuAE>
+`youtube:https://www.youtube.com/embed/guWsDQSIuAE`
 
 drown the sky
 
-<https://www.youtube.com/watch?v=2rZ38L4rMT4>
+`youtube:https://www.youtube.com/embed/2rZ38L4rMT4`
