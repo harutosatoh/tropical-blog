@@ -9,3 +9,5 @@ tags:
   - samfeldt
 ---
 sam feldtは先週末、「トーク・トゥ・ミー」のエディットバージョンをリリースした。オランダ人DJにとっての2020年初の作品となったこの曲は、Conor Maynard, RANI, MOWEとタイアップしたもので、二人による男性・女性パートの響きが重なり合う美しい曲調となっている。RANIとは昨年に大ヒットした"POST MALONE"に続いたコラボレーションであり、今後の活躍も期待されるところだ。また、Conorは曲について「本当の意味でパートナーと繋がりたいと願っているが互いの間に不和を抱えている人についての歌で、素晴らしい関係にはコミュニケーションが重要であることを教えてくれるものだ」と語っている。すでに各媒体においてリリース済みであり、Sam Feldt の公式インスタグラムアカウントではMVのワンシーンを視聴することができる。
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">NEW MUSIC OUT NOW! 😃 <a href="https://t.co/y96YuDCCDb">https://t.co/y96YuDCCDb</a> <a href="https://t.co/xVMWM8I2ma">pic.twitter.com/xVMWM8I2ma</a></p>&mdash; Sam Feldt 🌴 (@SamFeldtMusic) <a href="https://twitter.com/SamFeldtMusic/status/1228342605446078464?ref_src=twsrc%5Etfw">February 14, 2020</a></blockquote> 
