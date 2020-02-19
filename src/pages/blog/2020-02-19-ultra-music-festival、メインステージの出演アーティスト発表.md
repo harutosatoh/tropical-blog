@@ -35,4 +35,6 @@ Vini Vici
 
 David Guetta, Martin Garrix, Above&Beyond、そしてMajor Lazerらがステージに帰ってくる。また、FISHERとFrank Walkerにとっては初のUltra出演となる見込みだ。また、KSHMRは"Dharma"と呼ばれる特別なパフォーマンスを行う。
 
-Ultra Music Festivalは3月20-22日に行われる予定。Ultra WorldWideはクロアチア、韓国、南アフリカ、日本などで開催予定。
+Ultra Music Festivalは3月20-22日に行われる予定。Ultra WorldWideは例年クロアチア、韓国、南アフリカ、日本などで開催されている。
+
+[詳しくはこちら](https://edm.com/news/ultra-music-festival-2020-main-stage-headliners)
