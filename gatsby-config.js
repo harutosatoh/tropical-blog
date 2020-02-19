@@ -87,7 +87,13 @@ module.exports = {
       },
     }, // must be after other CSS plugins
     'gatsby-plugin-netlify', // make sure to keep it last in the array
-    "gatsby-plugin-twitter"
+    "gatsby-plugin-twitter",
+    {
+      resolve: `gatsby-plugin-google-adsense`,
+      options: {
+        publisherId: `ca-pub-3262072446265257`
+      },
+    },
   ],
   
 }
