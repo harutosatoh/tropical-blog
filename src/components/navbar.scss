@@ -13,8 +13,11 @@ nav.navbar {
     }
 }
 #navMenu {
-    .navbar-start {
+    padding-bottom:0;
+    .navbar-item {
         border-bottom: solid gray 1px;
+        padding-top: 5px;
+        padding-bottom:4px;
     }
 }       
 

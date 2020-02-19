@@ -4,7 +4,7 @@ import Helmet from 'react-helmet'
 import { Link, graphql } from 'gatsby'
 import Layout from '../../components/Layout'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faTag } from '@fortawesome/free-solid-svg-icons'
+import { faTag, faHeadphones } from '@fortawesome/free-solid-svg-icons'
 
 const TagsPage = ({
   data: {
@@ -28,7 +28,7 @@ const TagsPage = ({
               {group.map(tag => (
                 <li key={tag.fieldValue}>
                   <Link to={`/tags/${kebabCase(tag.fieldValue)}/`}>
-                    <FontAwesomeIcon icon={faTag} />{tag.fieldValue}
+                    <FontAwesomeIcon icon={faHeadphones} />{tag.fieldValue}
                   </Link>
                 </li>
               ))}
