@@ -12,6 +12,17 @@ module.exports = {
         head: true,
       }
     },
+    {
+      resolve: "gatsby-transformer-remark",
+      options: {
+        plugins: [
+          {
+            resolve: "gatsby-remark-embed-youtube",
+            options: {　// 固定サイズにする場合に指定
+              // width: 
+              // height: 400
+            }
+          },
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
     {
