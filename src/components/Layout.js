@@ -7,6 +7,7 @@ import './style.scss'
 import './navbar.scss'
 import './single.scss'
 import './tag.scss'
+import './allTags.scss'
 import useSiteMetadata from './SiteMetadata'
 import { withPrefix } from 'gatsby'
 
