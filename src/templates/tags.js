@@ -20,7 +20,7 @@ class TagRoute extends React.Component {
     const totalCount = this.props.data.allMarkdownRemark.totalCount
     const tagHeader = `${
       totalCount === 1 ? '' : ''
-    } “${tag}”の記事`
+    } ${tag}の記事`
 
     return (
       <Layout>
@@ -35,7 +35,7 @@ class TagRoute extends React.Component {
                 <h3 className="title is-size-4 is-bold-light">{tagHeader}</h3>
                 <ul className="taglist">{postLinks}</ul>
                 <p>
-                  <Link to="/tags/">全てのタグを見る</Link>
+                  <Link to="/tags/">アーティストリストを見る</Link>
                 </p>
               </div>
             </div>
