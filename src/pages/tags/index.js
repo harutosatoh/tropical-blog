@@ -3,6 +3,8 @@ import { kebabCase } from 'lodash'
 import Helmet from 'react-helmet'
 import { Link, graphql } from 'gatsby'
 import Layout from '../../components/Layout'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faTag } from '@fortawesome/free-solid-svg-icons'
 
 const TagsPage = ({
   data: {
@@ -21,12 +23,12 @@ const TagsPage = ({
             className="column is-10 is-offset-1"
             style={{ marginBottom: '6rem' }}
           >
-            <h1 className="title is-size-2 is-bold-light">Tags</h1>
+            <h1 className="title is-size-2 is-bold-light">タグ一覧</h1>
             <ul className="taglist">
               {group.map(tag => (
                 <li key={tag.fieldValue}>
                   <Link to={`/tags/${kebabCase(tag.fieldValue)}/`}>
-                    {tag.fieldValue} ({tag.totalCount})
+                    <FontAwesomeIcon icon={faTag} />{tag.fieldValue}
                   </Link>
                 </li>
               ))}
