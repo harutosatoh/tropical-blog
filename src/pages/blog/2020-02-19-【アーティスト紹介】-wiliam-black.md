@@ -14,15 +14,15 @@ William Blackはカリフォルニア州オレンジ・カウンティー出身�
 
 そんな彼の数年間にわたる活動の成果ともいうべきシングル"Here At Last"が先日リリースされました。Rico&Miellaとコラボしたこの美しく情熱的な楽曲はわずか1日の間に13000回に渡ってストリーミングで再生されるなど、大きな反響を呼んでいます。
 
-詳しくはこちら
+[詳しくはこちら](https://edm.com/music-releases/william-black-here-at-last)
 
-<https://edm.com/music-releases/william-black-here-at-last>
+
 
 Compositions by William Black on youtube
 
 here at last
 
-<https://www.youtube.com/watch?v=lIsfer_52L4>
+\`youtube:https://www.youtube.com/embed/guWsDQSIuAE\`
 
 letting go
 
