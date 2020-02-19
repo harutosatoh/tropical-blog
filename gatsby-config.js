@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'Sound Libre',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'トロピカル・ハウスを中心に海外EDMアーティストの最新情報をお届けします。リリース情報からアーティスト紹介、チケット情報など。',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
