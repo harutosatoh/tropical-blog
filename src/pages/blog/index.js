@@ -2,6 +2,8 @@ import React from 'react'
 
 import Layout from '../../components/Layout'
 import BlogRoll from '../../components/BlogRoll'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faCoffee } from '@fortawesome/free-solid-svg-icons'
 
 export default class BlogIndexPage extends React.Component {
   render() {
@@ -22,7 +24,7 @@ export default class BlogIndexPage extends React.Component {
 
             }}
           >
-           News
+           News<FontAwesomeIcon icon={faCoffee} />
           </h1>
         </div>
         <section className="section">
