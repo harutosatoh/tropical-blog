@@ -14,6 +14,7 @@ export const BlogPostTemplate = ({
   tags,
   title,
   helmet,
+  data
 }) => {
   const PostContent = contentComponent || Content
 
@@ -27,9 +28,7 @@ export const BlogPostTemplate = ({
               {title}
             </h1>
             <p>{description}</p>
-            <span className="subtitle is-size-5 is-block">
-                {post.frontmatter.date}
-            </span>
+            <date>{data}</date>
             <PostContent content={content} />
             {tags && tags.length ? (
               <div style={{ marginTop: `4rem` }}>
