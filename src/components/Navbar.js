@@ -3,7 +3,7 @@ import { Link } from 'gatsby'
 import github from '../img/github-icon.svg'
 import logo from '../img/logo.svg'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faCoffee, faCaravan } from '@fortawesome/free-solid-svg-icons'
+import { faCoffee, faCaravan, faHome } from '@fortawesome/free-solid-svg-icons'
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -44,7 +44,7 @@ const Navbar = class extends React.Component {
         <div className="container">
           <div className="navbar-brand">
             <Link to="/" className="navbar-item" title="Home">
-              <FontAwesomeIcon icon={faCaravan} />
+              <FontAwesomeIcon icon={faHome} />
             </Link>
             {/* Hamburger menu */}
             <div
