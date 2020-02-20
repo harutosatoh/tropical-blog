@@ -9,3 +9,5 @@ tags:
   - hoang
 ---
 2月12日、Hoangは新曲である"Million Days"をリリースした。この作品はSabai, Monstercat, Claire Olivia Ridgelyらとのコラボとなったこの作品は、すでにSpotifyをはじめ既にサブスクが解禁されている。サビのキャッチーなサウンドと落ち着いた曲調の中に幻想的なメロディーラインを感じるこの作品では、Hoangの類まれな才能がいかんなく発揮されている。
+
+`youtube:https://www.youtube.com/embed/fVeD9vWCpZ8`
