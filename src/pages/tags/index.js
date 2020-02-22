@@ -16,7 +16,7 @@ const TagsPage = ({
 }) => (
   <Layout>
     <section className="section section-allTags">
-      <Helmet title={`Tags | ${title}`} />
+      <Helmet title={`アーティスト・キーワード一覧 | ${title}`} />
       <div className="container content">
         <div className="columns">
           <div

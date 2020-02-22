@@ -29,7 +29,7 @@ export const BlogPostTemplate = ({
             <h1 className="">
               {title}
             </h1>
-            <p>{description}</p>
+            {/* <p>{description}</p> */}
             <date>{data}</date>
             <PostContent content={content} />
             {tags && tags.length ? (
